@@ -119,6 +119,58 @@ a {
 	
 }
 
+.loginImage {
+    position: relative;
+    bottom: 14em;
+    left: 25em;	
+   border: 10px solid #4F4B4B;
+  border-radius: 4px;
+  padding: 5px;
+  width: 600px;
+  height: 300px;
+  display:block;
+	
+}
+
+
+.contactUs {
+    position: relative;
+    bottom: 10em;
+    left: 25em;	
+   border: 10px solid #4F4B4B;
+  border-radius: 4px;
+  padding: 5px;
+  width: 600px;
+  height: 300px;
+  display:block;
+	
+}
+.registrationImage {
+    position: relative;
+    bottom: 2em;
+    left: 26em;	
+   border: 10px solid #4F4B4B;
+  border-radius: 4px;
+  padding: 5px;
+  width: 600px;
+  height: 250px;
+  display:block;
+	
+}
+
+.discussion {
+    position: relative;
+    bottom: 20em;
+    left: 26em;	
+   border: 10px solid #4F4B4B;
+  border-radius: 4px;
+  padding: 5px;
+  width: 550px;
+  height: 300px;
+  display:block;
+	
+}
+
 .footer {
     position: relative;
     bottom: 18em;
