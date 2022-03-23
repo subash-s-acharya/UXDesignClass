@@ -171,6 +171,19 @@ a {
 	
 }
 
+.forgotpswd {
+    position: relative;
+    bottom: 21em;
+    left: 26em;	
+   border: 10px solid #4F4B4B;
+  border-radius: 4px;
+  padding: 5px;
+  width: 550px;
+  height: 300px;
+  display:block;
+	
+}
+
 .footer {
     position: relative;
     bottom: 18em;
